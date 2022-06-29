@@ -21,8 +21,7 @@
 <p align="center">
  <h3>📧Mail: minseongkimc@gmail.com📧</h3>
  
- ![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:https://curious-wildcat-d24.notion.site/968e6fd944dc485e916f974e80d22dbf)
- 
 </p>
 
+<a href='https://curious-wildcat-d24.notion.site/968e6fd944dc485e916f974e80d22dbf'>포트폴리오</a>
 </div>
